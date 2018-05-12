@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Research Coordination Network (RCN): Predicting vertebrate responses to a changing climate: modeling genomes to phenomes to populations (G2P2PoP)</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Irwin Forseth</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A grand challenge in biology is developing an understanding of the mechanistic interrelationships among genes, environment, and phenotype, and how these interactions emerge at the population level. This project involves establishing a research coordination network, to bring together scientists from mathematical modeling and biological fields to develop multilevel mechanistic models that integrate existing and new data to predict responses by vertebrates to environmental change-related stressors. Specific goals include the creation of an initial core network of participants with expertise either at different levels of biological complexity and/or at creating and using mathematical models, expansion of the original network with special emphasis in recruiting young scientists, hosting workshops to foster education and formation of new interdisciplinary collaborations, training through exchanges between labs, and development and dissemination of webinars derived from the workshops. Scientific, regional, gender and ethnic diversity of the participants will broaden participation and expose participants to diverse social and scientific cultures. Of the initial participants, eight nations are represented, about half are early career, over half are female, and many are members of under-represented groups in science. Through the synthesis of empirical science and modeling, new knowledge can be generated and used to inform key stakeholders including policymakers, land managers, and the general public. The project will recruit secondary school teachers for training and development of curricular modules for incorporation into high school science programs through teacher outreach, develop webinars for public education resources, and create webinars for use by researchers.&lt;br/&gt;&lt;br/&gt;This research coordination network will address a grand challenge in biology, 'Deciphering the Genomes-to-Phenomes (G2P) Relationship' with extension to the population level. This understanding is essential for predicting animal resilience and vulnerability to rapid environmental change.  Participant expertise will span from genomes to populations and will include quantitative modelers at all levels of biological organization. Primary activities include annual workshops to foster discussion and interaction among mathematical modelers and organismal scientists.  Each workshop will include interactive lectures by experts within a topic area, followed by discussion of modeling approaches, and limitations and opportunities within and across levels of biological organization. Next will be communication of new techniques and approaches to generation of biological data and modeling, followed by planning sessions for new collaborations and funding opportunities.  Webinars will be organized to train participants in mechanistic modeling of biological systems across levels.  Collaborations in research and generation of manuscripts and proposals will be facilitated through investment in cross-disciplinary exchanges of network participants. A website will be established with a discussion board for in-depth discourse and collaboration among members. The website will serve as a repository for descriptions of participant expertise and activities, as well as reports of each workshop, with video presentations by the expert speakers.</AbstractNarration>
+<MinAmdLetterDate>07/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1656063</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Buck</LastName>
+<EmailAddress>Loren.Buck@nau.edu</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Allyson</FirstName>
+<LastName>Hindle</LastName>
+<EmailAddress>ahindle@mgh.harvard.edu</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nika</FirstName>
+<LastName>Galic</LastName>
+<EmailAddress>ngalic@umn.edu</EmailAddress>
+<StartDate>07/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northern Arizona University</Name>
+<CityName>Flagstaff</CityName>
+<ZipCode>860110001</ZipCode>
+<PhoneNumber>9285230886</PhoneNumber>
+<StreetAddress>ARD Building #56, Suite 240</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7657</Code>
+<Text>Integrative Ecologi Physiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1664</Code>
+<Text>RESEARCH COORD NETWK IN BIO SC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

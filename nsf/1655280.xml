@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RII Track-1: CPU2AL: Connecting the Plasma Universe to Plasma Technology in Alabama</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardAmount>3721227</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>01060100</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Integrative Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Uma D Venkateswaran</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-technical Description&lt;br/&gt;Plasmas - a state of matter consisting of a collection of electrically neutral atoms, molecules, as well as partially or fully ionized particles - make up more than 90% of the observable universe and underpin several high-tech manufacturing industries. Familiar forms of plasma include the sun, stars, lightning, neon signs, television screen displays, welder?s torches, and rocket exhaust. This project will improve understanding of plasma processes and interactions. This knowledge will be used to develop new technologies for aerospace, manufacturing, medicine, agriculture, and food safety. The research includes prediction and preparation of novel materials that have unique electronic, optical, mechanical, and biological properties. Applications include prosthetics and plant seed and food disinfection. The project will share resources and leverage partnerships among Alabama institutions of higher learning and industries as well as establish national and international collaborations to strengthen the research capacity and to build and train an inclusive workforce in plasma science and technology.&lt;br/&gt;&lt;br/&gt;Technical Description&lt;br/&gt;This project will combine experimental, theoretical, and computational approaches to understand, predict, and control low temperature plasma (LTP) processes and properties. The goal is to improve understanding of plasma kinetics, collective processes such as turbulence and self-organization, and plasma interactions with solid, liquid, biomaterials, as well as plant seeds and food. Kinetic and fluid descriptions of the LTP constituents in space, laboratory, and industrial plasma and diagnostics to measure plasma properties in LTP far from equilibrium will be developed. For collective processes, waves, instabilities, nonlinear processes, turbulence, and self-organization in LTP will be modeled and efficient numerical algorithms for collective effects that influence microwave, THz, and laser-produced plasma will be developed. The research on interactions will focus on large-area deposition of novel super-hard structures and understanding plasma interactions with biomaterials. CPU2AL will facilitate plasma science and technology related programs that reach all levels of education. These include: faculty, postdoc, and student exchanges among all participating institutions, industry internships, summer undergraduate research programs with international opportunities, cross-institutional courses, workshops and training sessions for industry workers, and open houses with student poster and K-12 teacher training sessions.</AbstractNarration>
+<MinAmdLetterDate>09/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1655280</AwardID>
+<Investigator>
+<FirstName>Yogesh</FirstName>
+<LastName>Vohra</LastName>
+<EmailAddress>ykvohra@uab.edu</EmailAddress>
+<StartDate>09/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Thomas</LastName>
+<EmailAddress>etjr@physics.auburn.edu</EmailAddress>
+<StartDate>09/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Branam</LastName>
+<EmailAddress>rdbranam@bama.ua.edu</EmailAddress>
+<StartDate>09/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vijaya</FirstName>
+<LastName>Rangari</LastName>
+<EmailAddress>vrangari@tuskegee.edu</EmailAddress>
+<StartDate>09/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Zank</LastName>
+<EmailAddress>garyp.zank@gmail.com</EmailAddress>
+<StartDate>09/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama in Huntsville</Name>
+<CityName>Huntsville</CityName>
+<ZipCode>358051911</ZipCode>
+<PhoneNumber>2568246120</PhoneNumber>
+<StreetAddress>301 Sparkman Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7217</Code>
+<Text>EPSCoR Research Infrastructure</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7715</Code>
+<Text>BROADENING PARTICIPATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

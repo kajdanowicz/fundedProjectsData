@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RII Track-1: Microbiomes of Aquatic, Plant, and Soil Systems across Kansas</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardAmount>3681561</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>01060100</Code>
+<Directorate>
+<LongName>Office Of The Director</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Integrative Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>andrew ogram</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-technical Description&lt;br/&gt;Microbiome science, the study of the combined genetic material from the set of all microorganism taxa present in a particular environment, is increasingly seen as important for addressing ecological questions, including societal challenges such as sustaining agricultural production while maintaining soil and water quality. This project will undertake a large survey of plant, soil and aquatic microbiomes and their environmental characteristics to catalog these communities and assess the ability of microbiomes to influence crop production, soil condition and water quality. Kansas is an ideal natural laboratory for this project due to the large gradients in precipitation and land use across the state. The project team will integrate its research and educational activities to improve Science, Technology, Engineering, and Mathematics (STEM) education capacity in both urban and rural areas, among mainstream, economically disadvantaged, and first-generation college students, enhance the participation of Native Americans and other under-represented groups, and to expand the workforce in microbial, plant, and soil science, genomics, bioinformatics and ecology.&lt;br/&gt;&lt;br/&gt;Technical Description &lt;br/&gt;This project is synergistic with the 2016 White House Initiative to improve understanding of microbiomes. Major project goals are to: develop a mechanistic understanding of microbiome-mediated ecosystem functions, predict ecosystem responses to changes in precipitation and land-use patterns, and identify ways to select for and utilize microbiomes to produce desired characteristics such as increased agricultural productivity or drought tolerance, efficient nutrient utilization, and enhanced soil quality. Advanced molecular techniques, including massively parallel sequencing of DNA, amplicon sequencing, and metatranscriptomic analyses, will be utilized in conjunction with large-scale field and greenhouse experiments. Databases will be created to link metagenomic data with environmental parameters across the state and identify genotypes that may confer desired responses under varying conditions. Data will be analyzed using standard statistical techniques and advanced methods such as structural equation modeling. Results will be used to identify practices to maximize plant productivity, water quality, and soil health.</AbstractNarration>
+<MinAmdLetterDate>09/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>09/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1656006</AwardID>
+<Investigator>
+<FirstName>Kristin</FirstName>
+<LastName>Bowman-James</LastName>
+<EmailAddress>kbjames@ku.edu</EmailAddress>
+<StartDate>09/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Kansas Center for Research Inc</Name>
+<CityName>LAWRENCE</CityName>
+<ZipCode>660457568</ZipCode>
+<PhoneNumber>7858643441</PhoneNumber>
+<StreetAddress>2385 IRVING HILL RD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7217</Code>
+<Text>EPSCoR Research Infrastructure</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7715</Code>
+<Text>BROADENING PARTICIPATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

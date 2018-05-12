@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Reimbursable Agreement between the FAA and NSF</AwardTitle>
+<AwardEffectiveDate>09/01/2015</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>1509913</AwardAmount>
+<AwardInstrument>
+<Value>Contract Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090200</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Sheppard</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>09/21/2015</MinAmdLetterDate>
+<MaxAmdLetterDate>09/08/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1560557</AwardID>
+<Investigator>
+<FirstName>Georgia</FirstName>
+<LastName>Hines</LastName>
+<EmailAddress>georgia.hine@faa.gov</EmailAddress>
+<StartDate>09/21/2015</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>FEDERAL AVIATION ADMINISTRATION</Name>
+<CityName>Oklahoma City</CityName>
+<ZipCode>731250082</ZipCode>
+<PhoneNumber/>
+<StreetAddress>P. O. BOX 25082</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5140</Code>
+<Text>OPERATIONS SUPPORT PROGRAM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>ARTS: A revisionary monograph of fungi in the genus Fusarium</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>1199999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010206</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Simon Malcomber</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Fungi in the genus Fusarium cause plant, animal, and human diseases, and produce toxins that contaminate food around the world. Despite their importance and ubiquity, the genus needs a complete taxonomic revision. Only about half of the roughly 300 species we know about even have names, as a result many researchers are not able to get satisfying answers about this group. This project will produce a new monograph of Fusarium that provides a complete description of all currently known species in this genus. Importantly, this monograph will provide a direct electronic link with two key resources: 1) Fusarium specimens in major culture collections that are available for further research and 2) databases of DNA sequence data with a sequence-based classification tool. The electronic portability of the monograph will enable connecting to portals for biological diversity such as Encyclopedia of Life and Wikipedia. This resource will also allow the discovery and recognition of new species of Fusarium, even in well-studied environments such as soils and plants. This project will train two PhD students and a postdoctoral scholar, broaden the training of the PIs, and facilitate collaborations with diverse scientists and students from around the world. &lt;br/&gt;&lt;br/&gt;This project will utilize new and existing gene sequence data to inform the first full taxonomic treatment of this key genus in over thirty years. The monograph will include introductory chapters that summarize the biological and ecological diversity of the genus. A Fusarium Basics Guide distilled from the monograph will be aimed at the many individuals who use morphology for identification. Individual species descriptions will be arranged based on evolutionary relationships, and will include morphological, ecological and other information. It will also include links to lists of isolates that are available and the data associated with them. Existing barcode gene sequences of the isolates, as well as existing poorly identified Fusarium sequences, will be curated to correct the taxonomy. This curated information will maximize their impact in studies that utilize sequence-based classification. Of particular importance is providing curated datasets that are accessible to bioinformatics platforms used to classify sequences derived from environmental DNA studies.</AbstractNarration>
+<MinAmdLetterDate>07/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1655980</AwardID>
+<Investigator>
+<FirstName>Todd</FirstName>
+<LastName>Ward</LastName>
+<EmailAddress>todd.ward@ars.usda.gov</EmailAddress>
+<StartDate>07/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kerry</FirstName>
+<LastName>O'Donnell</LastName>
+<EmailAddress>kerry.odonnell@ars.usda.gov</EmailAddress>
+<StartDate>07/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Seogchan</FirstName>
+<LastName>Kang</LastName>
+<EmailAddress>sxk55@psu.edu</EmailAddress>
+<StartDate>07/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Geiser</LastName>
+<EmailAddress>dgeiser@psu.edu</EmailAddress>
+<StartDate>07/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1198</Code>
+<Text>Biodiversity: Discov &amp;Analysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7375</Code>
+<Text>REVISIONARY SYSTEMATICS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Penn State's CyberCorps; Scholarship for Service Program</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardAmount>1455431</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11010000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Graduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor P. Piotrowski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Pennsylvania State University (Penn State), a designated National Center of Academic Excellence in Information Assurance Education and Research, proposes to continue and expand its participation in the CyberCorps(R) Scholarship for Service (SFS) program to prepare highly-qualified cybersecurity professionals for entry into the government workforce. The project will increase involvement of students in several cyber-relevant disciplines. The project will have an immediate impact on the information assurance and forensics capabilities of the federal workforce by developing well-trained cybersecurity professionals. The project will increase interest in cybersecurity among students, both in information sciences and in related interdisciplinary areas such as computer engineering, computer science, social science, and risk analysis. To date, the SFS program at Penn State has provided scholarships to twenty-six students and each of them had at least one government job offer at the time of graduation. &lt;br/&gt;&lt;br/&gt;This project provides a multi-disciplinary environment within Penn State's College of Information Sciences and Technology (IST) with the opportunity to identify, analyze and solve real-world security and privacy problems from technical, legal, ethical, policy, and business perspectives. The program seeks to improve the cybersecurity posture of individuals and organizations by creating innovative solutions for detecting and removing cyber threats, recovering from cyber-attacks, protecting privacy, understanding policy, enhancing trust, and mitigating risks. A critical feature of the SFS program at Penn State is its interdisciplinary nature, which requires engagement across the university. SFS students work on a variety of real-world projects that connect cyber with diverse topics, like: assessing online terrorist recruitment strategies or combating drug and human trafficking. Further, the college hosts eight labs dedicated to innovative research in cybersecurity, funded by government agencies and the private sector. Student professional development covers the following topics: resumes; cover letters and interviews; the internship as an extended interview; personality and leadership types; surviving politics and criticism; effective meeting management; professional presentations; career management skills; and emerging topics in national security.</AbstractNarration>
+<MinAmdLetterDate>07/31/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1663343</AwardID>
+<Investigator>
+<FirstName>Anna</FirstName>
+<LastName>Squicciarini</LastName>
+<EmailAddress>asquicciarini@ist.psu.edu</EmailAddress>
+<StartDate>08/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anna</FirstName>
+<LastName>Squicciarini</LastName>
+<EmailAddress>asquicciarini@ist.psu.edu</EmailAddress>
+<StartDate>07/31/2017</StartDate>
+<EndDate>08/21/2017</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Forster</LastName>
+<EmailAddress>pkf1@psu.edu</EmailAddress>
+<StartDate>07/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dongwon</FirstName>
+<LastName>Lee</LastName>
+<EmailAddress>dongwon@psu.edu</EmailAddress>
+<StartDate>08/21/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1668</Code>
+<Text>CYBERCORPS: SCHLAR FOR SER</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7254</Code>
+<Text>CYBER SECURITY ACT PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SFS Renewal: Using Auburn University's Land Grant Mission to Prepare Cybersecurity Professionals</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardAmount>1581155</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11010000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Graduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor P. Piotrowski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Auburn University, one of the sixteen National Centers of Academic Excellence in Cyber Operations, proposes to continue and expand its participation in the CyberCorps(R) Scholarship for Service (SFS) program to prepare highly-qualified cybersecurity professionals for entry into the government workforce. Along the path to becoming prepared for the public sector, students work with Alabama communities to raise awareness of cybersecurity issues. The project will have an immediate impact on the information assurance and forensics capabilities of the federal workforce by developing well-trained cybersecurity professionals. Given the University's strong record in graduating engineers from underrepresented groups, the team will work closely with the Auburn University's BellSouth Minority Engineering Program (BMEP), 1000-Women Strong organization, the Office of Accessibility, and the Office of Veteran Affairs to ensure at least half of the scholarship students come from segments of the population that are under-represented. SFS students are required to participate in extracurricular activities that ensure they are equipped with skills that will prepare them for the variety of challenges they will see in the workplace. Undergraduate and graduate scholarship recipients are encouraged to seek cybersecurity certifications that demonstrate in a tangible and recognizable fashion their cyber capabilities, making them more competitive for placement in civil service positions. In addition, graduate scholars complete their degree having done a deep dive into a least one area of advanced cybersecurity resulting in a publishable paper relevant to the public sector. Those mentoring the SFS scholars engage with government agencies to understand cybersecurity needs and trends to achieve a mutual fit between SFS graduates and jobs.&lt;br/&gt;&lt;br/&gt;Auburn's SFS program continues to be a source of qualified cybersecurity personnel going to work in the public sector. The specific objectives are to 1) qualify students for cybersecurity careers in the public sector; 2) prepare students through hands-on learning that reflects the realities of the workspace; 3) engage students in raising the awareness of cybersecurity within Alabama's communities in support of Auburn University's role as a land grant university; and 4) fund qualified students from disenfranchised backgrounds who would not be able to otherwise afford an education. The University's long-term research and education relationships with government organizations such as Redstone Arsenal, Maxwell AFB, Alabama Department of Revenue, and Ft Benning have fostered special contributions to the success of the SFS program by aligning scholarship recipients with agencies early in their careers. Over two-thirds of the SFS students participated in a cybersecurity project sponsored by the Federal Government during a regular academic year. Such close collaboration provide students hands-on experience and support efforts within government organizations, resulting in students receiving multiple offers of employment upon graduation.</AbstractNarration>
+<MinAmdLetterDate>07/25/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>07/25/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1663616</AwardID>
+<Investigator>
+<FirstName>Theron</FirstName>
+<LastName>Hendrix</LastName>
+<EmailAddress>hendrtd@auburn.edu</EmailAddress>
+<StartDate>07/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Umphress</LastName>
+<EmailAddress>umphress@eng.auburn.edu</EmailAddress>
+<StartDate>07/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anthony</FirstName>
+<LastName>Skjellum</LastName>
+<EmailAddress>tony-skjellum@utc.edu</EmailAddress>
+<StartDate>07/25/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Auburn University</Name>
+<CityName>Auburn University</CityName>
+<ZipCode>368490001</ZipCode>
+<PhoneNumber>3348444438</PhoneNumber>
+<StreetAddress>310 Samford Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1668</Code>
+<Text>CYBERCORPS: SCHLAR FOR SER</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7254</Code>
+<Text>CYBER SECURITY ACT PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>
